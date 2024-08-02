@@ -271,4 +271,3 @@ class Home extends Component {
 }
 
 export default Home
-// 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
